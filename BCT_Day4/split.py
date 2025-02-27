@@ -1,0 +1,5 @@
+t=input("enter the date")
+day,month,year=t.split("/")
+print("day=",day)
+print("month=",month)
+print("year=",year)

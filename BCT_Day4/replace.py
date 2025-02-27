@@ -1,0 +1,8 @@
+t=input("enter the date=")
+print(t)
+z=t.replace("/",".")
+print("after replacement",t)
+day,month,year=z.split(".")
+print("day=",day)
+print("month=",month)
+print("year=",year)
