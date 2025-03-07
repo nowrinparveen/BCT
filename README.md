@@ -23,3 +23,6 @@ Backend: Python, Django
 Frontend: HTML, CSS
 
 Database: SQLite (can be extended to PostgreSQL or MySQL)
+
+
+CHECK OUR PROJECT IN ECOM/ECOM FOLDER
